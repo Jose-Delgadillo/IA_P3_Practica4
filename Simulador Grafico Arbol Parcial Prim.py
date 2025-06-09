@@ -1,5 +1,4 @@
 """
-
 Árbol de Expansión Mínima – Algoritmo de Prim (versión gráfica sencilla)
 
 Requisitos:
